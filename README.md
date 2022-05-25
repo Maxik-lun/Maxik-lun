@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Maxik-lun
 - 👀 I’m interested in Time Series Analysis, ML and Quantitative Finance
-- 🌱 I’m currently learning neural networks
+- 🌱 I’m currently practicing algorithmic trading (as a hobby)
 - 💞️ I’m looking to collaborate on something cool😎
 - 📫 How to reach me: max-lunitsin@mail.ru
 
